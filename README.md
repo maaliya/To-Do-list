@@ -1,3 +1,2 @@
-Interative To-do list
-I have developed a responsive To-Do List web application featuring task management with priority levels, customizable style options, and intuitive add/delete functionality.
-Implemented task completion tracking with tick/checkbox indicators, ensuring a clean UI and efficient user interaction across devices.
+The To-Do List Web Application is a responsive and interactive frontend project designed to streamline daily task management. Built using modern frontend technologies such as HTML, CSS, and JavaScript (or React), the application allows users to efficiently add, delete, and organize tasks with priority levels and customizable style options. It includes a task completion feature with tick/checkbox indicators, enabling users to track progress in real time. The interface is designed with a clean and intuitive layout, ensuring a seamless user experience across different devices. This project demonstrates strong skills in frontend development, DOM manipulation/state management, and user-centric UI design.
+
